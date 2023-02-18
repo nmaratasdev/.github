@@ -1,1 +1,1 @@
-# .github
+# Holopin Configuration
